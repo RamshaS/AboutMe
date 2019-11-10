@@ -2,4 +2,5 @@
     <string name="app_name">AboutMe</string>
     <string name="yellow_star">Yellow star</string>
     <string name="my_name">Ramshay</string>
+    <string name="bio"><![CDATA[If you find my profile randomly on Twttr.. \n\n\n Hi, i\'m ramsha👋  \n\n\n- I’m currently working full time on building web & desktop applications.\n\n\n  - I write code more often for web (but have written code for mobile devices IOS & ANDROID)  📱 \n\n\n - I like tea 🍵\n\n\n  Let’s be twitter friends 😄]]></string>
 </resources>
